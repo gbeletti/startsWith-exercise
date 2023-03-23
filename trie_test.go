@@ -31,7 +31,7 @@ func TestStartsWith(t *testing.T) {
 		},
 		{
 			Name:     "05 - words with drin",
-			Prefix:   "drin",
+			Prefix:   "drink",
 			Expected: []string{"drink", "drinking"},
 		},
 	}
